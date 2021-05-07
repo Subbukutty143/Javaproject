@@ -9,7 +9,11 @@ public class Sample{
 	public static void main(String[] args) {
 		List<Integer> l = new ArrayList<>();
 		boolean b = l.add(10);
-		
+		System.out.println("raj");
+		System.out.println("raj");
+		System.out.println("raj");
+		System.out.println("raj");
+		System.out.println("raj");
 		
 		
 		
